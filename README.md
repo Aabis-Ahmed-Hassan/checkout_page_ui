@@ -1,16 +1,5 @@
-# checkout_page_ui
+# Flutter Checkout Page UI
 
-A new Flutter project.
+![Flutter Checkout Page UI](https://github.com/Aabis-Ahmed-Hassan/checkout_page_ui/assets/149153919/4503c2f8-4197-4123-ada0-48bd2b5fe840)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter application presents a sleek and intuitive user interface for a checkout experience. It is a front-end application, focusing solely on the visual aspect without any backend functionality. The app showcases a clean checkout screen with order details, payment methods, and easy navigation options.
